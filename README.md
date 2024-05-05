@@ -32,5 +32,5 @@ pnpm build
 npm run build
 ```
  ## Demo Video
-<video src="./demoRecording.mp4" width="320" height="240" controls></video>
+![Demo Video](demoVideo.gif)
 This should create a production bundle for your extension, ready to be zipped and published to the stores.
